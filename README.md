@@ -1,4 +1,4 @@
-# Heath's World Famous Project Scaffold
+# Inicipio
 
 A project scaffold that can get you started building your project quickly!
 
