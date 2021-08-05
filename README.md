@@ -13,8 +13,8 @@ A project scaffold that can get you started building your project quickly!
 
 ### Coming soon:
 
-- [] PrismaJS
-- [] Magic.Link
+- [ ] PrismaJS
+- [ ] Magic.Link
 
 
 ## To Use
